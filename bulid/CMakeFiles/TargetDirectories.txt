@@ -1,0 +1,3 @@
+/home/pws/work/myapp/list/bulid/CMakeFiles/rebuild_cache.dir
+/home/pws/work/myapp/list/bulid/CMakeFiles/test_list.dir
+/home/pws/work/myapp/list/bulid/CMakeFiles/edit_cache.dir

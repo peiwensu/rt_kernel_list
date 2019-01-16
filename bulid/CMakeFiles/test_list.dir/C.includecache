@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/list.h
+
+/home/pws/work/myapp/list/src/list.c
+stdio.h
+-
+list.h
+/home/pws/work/myapp/list/src/list.h
+
